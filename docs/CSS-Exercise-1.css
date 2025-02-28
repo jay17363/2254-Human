@@ -2,3 +2,35 @@ body {
     background-color: tan;
     font-size: 16px;
 }
+.heading {
+    position: absolute;
+    text-shadow: 3px 2px 2.5px #552020;
+    left: 467.5px;
+    top: 6px;
+}
+.pg2Img1 {
+    position: absolute;
+    z-index: 1;
+    left: 578px;
+    top: 65px;
+}
+.pg2Img2 {
+    position: absolute;
+    left: 500px;
+    top: 210px;
+    z-index: 2;
+}
+.pgImg3 {
+    position: absolute;
+    z-index: 3;
+    left: 662px;
+    top: 341px;
+}
+.linkPgs {
+    position: absolute;
+    left: 484px;
+    top: 64px;
+}
+.movie {
+    position: absolute;
+}
